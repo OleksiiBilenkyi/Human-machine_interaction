@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Adidas Ultraboost 21",
+    "quantity": 12,
+    "location": "Склад B",
+    "description": "Високопродуктивні бігові кросівки з реактивною амортизацією.",
+    "price": 190.0
+  },
+  {
+    "name": "Hoka One One Clifton 8",
+    "quantity": 2,
+    "location": "Склад K",
+    "description": "Кросівки з ультрам\u0027яким амортизуючим шаром для комфортних тренувань.",
+    "price": 180.0
+  },
+  {
+    "name": "ASICS Gel-Kayano 28",
+    "quantity": 2,
+    "location": "Склад G",
+    "description": "Стабільні бігові кросівки з чудовою підтримкою.",
+    "price": 180.0
+  },
+  {
+    "name": "ASICS Gel-Nimbus 23",
+    "quantity": 2,
+    "location": "Склад G",
+    "description": "Преміальні кросівки з м\u0027яким амортизуючим шаром для довгих пробіжок.",
+    "price": 170.0
+  },
+  {
+    "name": "Mizuno Wave Rider 25",
+    "quantity": 3,
+    "location": "Склад J",
+    "description": "Легкі бігові кросівки з відмінною амортизацією та стабільністю.",
+    "price": 160.0
+  },
+  {
+    "name": "Under Armour HOVR Phantom 2",
+    "quantity": 1,
+    "location": "Склад F",
+    "description": "Стильні бігові кросівки з високоякісною амортизацією.",
+    "price": 160.0
+  },
+  {
+    "name": "Hoka One One Rincon 3",
+    "quantity": 2,
+    "location": "Склад K",
+    "description": "Легкі кросівки зі швидкісною реакцією та підтримкою.",
+    "price": 160.0
+  },
+  {
+    "name": "New Balance Fresh Foam 1080v11",
+    "quantity": 2,
+    "location": "Склад D",
+    "description": "Нейтральні бігові кросівки з м\u0027яким амортизуючим шаром для довгих пробіжок.",
+    "price": 150.0
+  },
+  {
+    "name": "Salomon XA Pro 3D",
+    "quantity": 1,
+    "location": "Склад I",
+    "description": "Трейлові кросівки з міцною підошвою і хорошою амортизацією.",
+    "price": 150.0
+  },
+  {
+    "name": "Salomon Speedcross 5",
+    "quantity": 1,
+    "location": "Склад I",
+    "description": "Високоякісні трейлові кросівки з міцною підошвою.",
+    "price": 140.0
+  },
+  {
+    "name": "Nike Air Max 270",
+    "quantity": 3,
+    "location": "Склад A",
+    "description": "Модні кросівки зі стильним дизайном та зручними характеристиками.",
+    "price": 140.0
+  },
+  {
+    "name": "Brooks Adrenaline GTS 22",
+    "quantity": 2,
+    "location": "Склад H",
+    "description": "Кросівки з високою стабільністю для тренувань і змагань.",
+    "price": 140.0
+  },
+  {
+    "name": "Brooks Ghost 14",
+    "quantity": 2,
+    "location": "Склад H",
+    "description": "Універсальні бігові кросівки з гладким ходом.",
+    "price": 130.0
+  },
+  {
+    "name": "Mizuno Wave Inspire 17",
+    "quantity": 3,
+    "location": "Склад J",
+    "description": "Стійкі бігові кросівки з чудовим амортизаційним ефектом.",
+    "price": 130.0
+  },
+  {
+    "name": "Nike Air Max 90",
+    "quantity": 3,
+    "location": "Склад A",
+    "description": "Класичні кросівки з відмінною амортизацією.",
+    "price": 120.0
+  },
+  {
+    "name": "New Balance 574",
+    "quantity": 2,
+    "location": "Склад D",
+    "description": "Класичні кросівки зі зручною посадкою і високою якістю.",
+    "price": 110.0
+  },
+  {
+    "name": "Reebok Nano X",
+    "quantity": 3,
+    "location": "Склад E",
+    "description": "Кросівки для кросфіт-тренувань зі стабільністю та міцністю.",
+    "price": 100.0
+  },
+  {
+    "name": "Adidas Stan Smith",
+    "quantity": 2,
+    "location": "Склад B",
+    "description": "Культові кросівки з класичним стилем.",
+    "price": 100.0
+  },
+  {
+    "name": "Puma RS-X3",
+    "quantity": 1,
+    "location": "Склад C",
+    "description": "Ретро-стильні кросівки з сучасними функціями комфорту.",
+    "price": 90.0
+  },
+  {
+    "name": "Reebok Classic Leather",
+    "quantity": 3,
+    "location": "Склад E",
+    "description": "Легендарні кросівки з комфортною підошвою.",
+    "price": 90.0
+  },
+  {
+    "name": "Puma Cali",
+    "quantity": 1,
+    "location": "Склад C",
+    "description": "Стильні кросівки з натуральної шкіри для повсякденного використання.",
+    "price": 80.0
+  }
+]
